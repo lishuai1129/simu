@@ -323,6 +323,10 @@ const handleStartConstellation = () => {
   }, 1500);
 };
 
+const as = 10.9; // 
+
+
+
 const handleStopConstellation = () => {
   constellationWs.disconnect();
   ElMessage.info("星座仿真已断开");
