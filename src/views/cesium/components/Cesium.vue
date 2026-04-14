@@ -323,7 +323,6 @@ const handleStartConstellation = () => {
   }, 1500);
 };
 
-const as = 10.9; // 
 
 
 
